@@ -6,7 +6,6 @@
 int main() {
     LinkStack s;
     char infix[30], postfix[30];
-    printf("C12214060余江睿\n");
     while (1) {
         scanf("%s", infix);
         if (infix[0] == '#')
